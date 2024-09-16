@@ -1,0 +1,5 @@
+The user accesses the URL www.foobar.com, which is routed to HAProxy, a load balancer that distributes tasks by sending them to both the web server and the app server.
+
+Both can then refer to the codebase to execute the code logic.
+
+and may proceed to the database for a query if necessary.

@@ -1,0 +1,7 @@
+The user accesses the URL www.foobar.com, which is routed to HAProxy, a load balancer that distributes tasks by sending them to the web server and app server, protected by a firewall using the HTTPS protocol.
+
+Both can access the codebase to execute the code logic while being protected by antivirus firewall.
+
+With the need to continue up to the database for the database query.
+
+And the client monitoring to oversee operation and availability.

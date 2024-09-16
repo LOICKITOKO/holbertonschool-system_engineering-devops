@@ -1,0 +1,5 @@
+The user accesses the URL www.foobar.com, which triggers the static server (web server) to serve content such as HTML, images, videos, etc.
+
+If dynamic data needs to be handled, the request proceeds to the app server for code logic, for example: Python, Java, etc.
+
+If database access is required, the request continues to my database for querying, for example: storage, ID, etc.
